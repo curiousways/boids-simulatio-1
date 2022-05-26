@@ -140,7 +140,7 @@ Victor.prototype.limitMagnitude = function (max) {
 
 // Checkbox Options
 var walls = true;
-var mouseSeek = false;
+var mouseSeek = true;
 var collisions = false;
 
 // Set number of boids based on browser and screen size
