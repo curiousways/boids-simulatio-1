@@ -183,7 +183,7 @@ var colors = ["#4d4b95", "#2b2982", "#ffb990", "#ffcbac"];
 //   '#42ebf4'
 // ];
 var diversity = 8;
-var quickness = 1;
+var quickness = 2;
 var introversion = 0.5;
 var racism = 0;
 var speedIndex;

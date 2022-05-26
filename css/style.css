@@ -157,7 +157,7 @@ table {
   max-width: 100%;
   max-width: 100vw;
   overflow: hidden;
-  background-color: #201e7b;
+  /* background-color: #201e7b; */
   color: #fafafa;
   color: rgba(255, 255, 255, 0.9);
   font-family: arial;
