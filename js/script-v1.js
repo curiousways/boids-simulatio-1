@@ -171,17 +171,8 @@ var radius = 3;
 var radiusCoefficients = [0.5, 0.6, 0.7, 0.8, 1];
 
 // Boid Attributes
-var colors = ["#4d4b95", "#2b2982", "#ffb990", "#ffcbac"];
-// var colors = [
-//   '#4286f4',
-//   '#f4416a',
-//   '#41f4a0',
-//   '#f9f9f9',
-//   '#a341f4',
-//   '#f48341',
-//   '#f4e841',
-//   '#42ebf4'
-// ];
+var colors = ["#4d4b95", "#2b2982"];
+
 var diversity = 8;
 var quickness = 2;
 var introversion = 0.5;
