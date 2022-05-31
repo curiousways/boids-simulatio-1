@@ -139,7 +139,7 @@ Victor.prototype.limitMagnitude = function (max) {
 /*---- Loop and Initializing ----*/
 
 // Checkbox Options
-var walls = true;
+var walls = false;
 var mouseSeek = true;
 var collisions = false;
 
@@ -181,7 +181,7 @@ var speedIndex;
 if (size.width / 160 < 5) {
   speedIndex = 5;
 } else if (size.width / 180 > 8) {
-  speedIndex = 9;
+  speedIndex = 5;
 } else {
   speedIndex = size.width / 180;
 }
